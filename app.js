@@ -3,6 +3,7 @@ const app = express();
 const path = require('path');
 const colorConvert = require('color-convert');
 const cors = require('cors');
+
 app.use(cors());
 
 const calculateComplementary = (hex) => {
