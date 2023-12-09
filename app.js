@@ -1,8 +1,9 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const path = require('path');
 const colorConvert = require('color-convert');
-const cors = require('cors');
+
 app.use(cors());
 
 const calculateComplementary = (hex) => {
@@ -45,6 +46,12 @@ app.get('/api/color/:hex', (req, res) => {
         analogous: [`#${analogous1}`, `#${analogous2}`],
         triadic: [`#${triadic1}`, `#${triadic2}`]
     });
+});
+
+const movieQuotes = require('./data/data.json');
+
+app.get('/movies', (req, res) => {
+    res.json(movieQuotes);
 });
 
 app.get('/', (req, res) => {
