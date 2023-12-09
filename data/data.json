@@ -1,0 +1,72 @@
+[
+    {
+        "movie": "The Shawshank Redemption",
+        "quotes": [
+            "Hope is a good thing, maybe the best of things, and no good thing ever dies.",
+            "Get busy living, or get busy dying."
+        ]
+    },
+    {
+        "movie": "Forrest Gump",
+        "quotes": [
+            "Life is like a box of chocolates, you never know what you're gonna get.",
+            "Stupid is as stupid does."
+        ]
+    },
+    {
+        "movie": "The Dark Knight",
+        "quotes": [
+            "Why so serious?",
+            "It's not who I am underneath, but what I do that defines me."
+        ]
+    },
+    {
+        "movie": "Casablanca",
+        "quotes": [
+            "Here's looking at you, kid.",
+            "We'll always have Paris."
+        ]
+    },
+    {
+        "movie": "The Godfather",
+        "quotes": [
+            "I'm going to make him an offer he can't refuse.",
+            "Keep your friends close, but your enemies closer."
+        ]
+    },
+    {
+        "movie": "Star Wars",
+        "quotes": [
+            "May the Force be with you.",
+            "I’ve got a bad feeling about this."
+        ]
+    },
+    {
+        "movie": "Gone with the Wind",
+        "quotes": [
+            "Frankly, my dear, I don't give a damn.",
+            "After all, tomorrow is another day!"
+        ]
+    },
+    {
+        "movie": "The Wizard of Oz",
+        "quotes": [
+            "There's no place like home.",
+            "I've a feeling we're not in Kansas anymore."
+        ]
+    },
+    {
+        "movie": "Titanic",
+        "quotes": [
+            "I'm the king of the world!",
+            "You jump, I jump, remember?"
+        ]
+    },
+    {
+        "movie": "Fight Club",
+        "quotes": [
+            "The first rule of Fight Club is: You do not talk about Fight Club.",
+            "This is your life and it's ending one minute at a time."
+        ]
+    }
+]
